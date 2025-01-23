@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Prabhjot Singh! 👋
 
-<!--
-**prabadelic/prabadelic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full-Stack Software Engineer based in Baltimore.
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Tools
+- **Frontend**: JavaScript, HTML, CSS, React.js, React Router, Bootstrap
+- **Backend**: Node.js, Express, RESTful APIs, PostgreSQL
+- **Tools**: Mocha, Chai, Knex, Git, GitHub, Postman, DBeaver, NPM, Visual Studio Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[✨ My Portfolio ✨](https://portfolio-f5f4.onrender.com/)
+
+🤔 I’m looking for early career and junior software engineering jobs.
+
+## 📫 How to Reach Me
+- **Email**: [prabadelic@gmail.com](mailto:prabadelic@gmail.com)
+- **LinkedIn**: [linkedin.com/in/prabhjot-raj-singh](https://linkedin.com/in/prabhjot-raj-singh)
