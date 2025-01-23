@@ -1,6 +1,7 @@
-# Hi, I'm Prabhjot Singh! 👋
+# 👋 Hi, I'm Prabhjot Singh!  
+### Full-Stack Software Engineer
 
-I'm a Full-Stack Software Engineer based in Baltimore.
+I'm based in Baltimore and have a passion for building efficient, scalable, and user-friendly applications.
 
 ## 🛠️ Skills & Tools
 - **Frontend**: JavaScript, HTML, CSS, React.js, React Router, Bootstrap
@@ -8,6 +9,11 @@ I'm a Full-Stack Software Engineer based in Baltimore.
 - **Tools**: Mocha, Chai, Knex, Git, GitHub, Postman, DBeaver, NPM, Visual Studio Code
 
 [✨ My Portfolio ✨](https://portfolio-f5f4.onrender.com/)
+
+## 🚀 Current Goals:
+- Improving my expertise in cloud and cyber technologies  
+- Enhancing skills in full-stack development with React, Node.js, and PostgreSQL  
+- Contributing to open-source projects to collaborate and grow within the developer community  
 
 🤔 I’m looking for early career and junior software engineering jobs.
 
