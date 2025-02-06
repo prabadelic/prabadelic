@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Prabhjot Singh!  
 ### Full-Stack Software Engineer
 
-I'm based in Baltimore and have a passion for building efficient, scalable, and user-friendly applications.
+I’m  a full-stack engineer from Baltimore, MD. I studied Finance at Towson University and completed a Full-Stack Software Engineering course at Chegg Skills, specializing in JavaScript, React, and backend development with Node.js and PostgreSQL.
+
+I love web development because it combines logic and creativity to solve real-world problems. Seeing an idea turn into a fully functional application is incredibly rewarding. Additionally, collaborating with teams brings diverse perspectives that enhance problem-solving and efficiency.
 
 ## 🛠️ Skills & Tools
 - **Frontend**: JavaScript, HTML, CSS, React.js, React Router, Bootstrap
